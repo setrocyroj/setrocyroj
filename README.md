@@ -1,16 +1,24 @@
-### Hi there 👋
+### hey its me jory
 
-<!--
-**setrocyroj/setrocyroj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Randomize Sentences</title>
+    <style>
+        #output {
+            margin-top: 20px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            width: 300px;
+            min-height: 100px;
+        }
+    </style>
+</head>
+<body>
+    <button id="randomizeButton">Randomize Sentences</button>
+    <div id="output"></div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <script src="randomizeSentences.js"></script>
+</body>
+</html>
