@@ -1,24 +1,3 @@
-### hey its me jory
+### hi guys!
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Randomize Sentences</title>
-    <style>
-        #output {
-            margin-top: 20px;
-            border: 1px solid #ccc;
-            padding: 10px;
-            width: 300px;
-            min-height: 100px;
-        }
-    </style>
-</head>
-<body>
-    <button id="randomizeButton">Randomize Sentences</button>
-    <div id="output"></div>
-
-    <script src="randomizeSentences.js"></script>
-</body>
-</html>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2E1ngxKxuBNUdUzxVeUiRG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
