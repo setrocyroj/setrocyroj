@@ -1,4 +1,3 @@
 ### hi guys!
 
-too lazy to introduce myself so..
-go to Spacehey.com and search "stickittotheman_"
+too lazy to introduce myself so.. https://spacehey.com/profile?id=2713164
